@@ -109,11 +109,16 @@ I love crafting projects that **blend intelligence with utility**, and I’m pas
 
 ## ☕ Like What I Do?
 
+<h3 align="center">🚀 Let’s Connect & Build in Public</h3>
 <p align="center">
-    <a href="https://www.buymeacoffee.com/kanishkakumar" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" />
-    </a>
+  <a href="https://x.com/KanishkKrSingh" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40kanishka_singh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow me on Twitter"/>
+  </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanishkaKrSingh/assets/main/twitter-growth.gif" width="400px" alt="Twitter Growth Visual" />
+</p>
+
 
 ---
 
