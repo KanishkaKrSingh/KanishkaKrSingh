@@ -1,31 +1,122 @@
-<h1 align="center">Hi 👋, I'm Kanishka Kumar Singh</h1>
-<h3 align="center">A passionate Front-end Developer and Java Programmer. </h3>
+<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkkrsingh&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkkrsingh" /> </p>
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Kanishka Kumar Singh!](https://github.com/KanishkaKrSingh) <img src="https://komarev.com/ghpvc/?username=KanishkaKrSingh" height="20px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkkrsingh" alt="kanishkkrsingh" /></a> </p>
+I'm a **CSE undergrad** 🎓 at **BIT Mesra**, aspiring **ML Engineer** & **AI Researcher** with hands-on experience in **Computer Vision**, **Full-Stack Web Development**, and **Deep Learning** 🔬. 
 
-- 🔭 I’m currently working on **NutriNet**
+Currently working under the guidance of **Dr. Supratim Biswas** on **automated attendance systems** using **YOLOv8**, **Few-Shot Learning**, and **Mask-CNN**, while building impactful tech like **NutriNet**, a health-focused web app powered by **OpenAI** 🧠.
 
-- 🌱 I’m currently learning **Django and Python**
+I love crafting projects that **blend intelligence with utility**, and I’m passionate about pushing boundaries with modern tools like **TensorFlow**, **OpenCV**, and **Transformers**.
 
-- 👯 I’m looking to collaborate on **Web and Java Development Projects**
-
-- 💬 Ask me about **Java, Kotlin and App Dev**
-
-- 📫 How to reach me **kanishkakumarsingh2003@gmail.com**
-
-- ⚡ Fun fact **I like programming and creating mods and plugins in Minecraft, It was the thing, that sparked my interest in this field.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kanishka kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanishka kumar singh" height="30" width="40" /></a>
-<a href="https://instagram.com/kanishkkr.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanishkkr.singh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shadowbeast_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shadowbeast_13" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shadowbeast_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadowbeast_13" height="30" width="40" /></a>
+<p>
+<a href="https://www.linkedin.com/in/kanishka-singh-527880254/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:kanishkakumarsingh2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://leetcode.com/u/Meliodas_13/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" height=25></a>
+<a href="https://github.com/KanishkaKrSingh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## ⚡ A Few Quick Facts:
 
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+
+- 🔭 Currently working on: YOLOv8-based attendance systems & OpenAI-powered health tech
+- 🌱 Learning: Graph Neural Networks, Few-Shot Learning, and Transformers
+- 💻 Solved 500+ problems on LeetCode + Codeforces (1410 Specialist)
+- 📜 Research under Dr. Supratim Biswas (FLAT + Vision Systems @ BIT)
+- 🎓 Secretary of Academic Affairs, BIT Mesra (CSE Dept.)
+- 👥 Core Member, Google Developer Students’ Club @ BIT Mesra
+- 🏆 Top 5 in Smart India Hackathon and IEEE MegaProject 2023
+- 🧠 Passionate about real-world applications of AI for social impact
+
+---
+
+## 🧪 Highlighted Projects
+
+- **NutriNet** 🧬  
+  Django + Arduino + OpenAI + Plotly + React.js  
+  → Real-time patient health monitoring with chatbot interface.  
+  _🟢 Improved diagnostic accuracy by 40%, used by 100+ users._
+
+- **Automated Attendance System** 📸  
+  YOLOv8 + TensorFlow + OpenCV + Few-Shot Learning  
+  → Increased recognition accuracy by 20%, deployed real-time.
+
+---
+
+## 🛠️ Languages and Tools I Use
+
+<p align="center"> 
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35" height="35"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="35" height="35"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="35" height="35"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35" height="35"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" height="35"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35" height="35"/></code>
+  <code><img src="https://nextjs.org/static/favicon/favicon.ico" width="35" height="35"/></code>
+  <code><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="35" height="35"/></code>
+</p>
+
+---
+
+## 🧠 Research Corner
+> “The beautiful thing about learning is nobody can take it away from you.” – B.B. King
+
+- 🧪 **Interests**: Computer Vision, NLP, Few-Shot Learning, LLMs
+- 🔍 **Focus Areas**: Real-time AI Systems, Graph Neural Networks, Biomedical AI
+- 📈 **Current Research**: Mask-CNNs, Attendance Automation, Chatbots for Healthcare
+- 🧑‍🏫 **Mentor**: Dr. Supratim Biswas (Faculty, BIT Mesra)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=KanishkaKrSingh&theme=white" width="48%"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KanishkaKrSingh&show_icons=true&count_private=true&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=KanishkaKrSingh&column=8&row=1">
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkaKrSingh&theme=minimal"/>
+</div>
+
+---
+
+## 🎧 Spotify Playing
+
+<p align="center">
+    <a href="https://open.spotify.com/user/317bj4zcxrzthzj5n3kzgbsv6jy4" target="_blank"> 
+        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Kanishka's Spotify" />
+    </a>
+</p>
+
+---
+
+## ☕ Like What I Do?
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/kanishkakumar" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" />
+    </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
