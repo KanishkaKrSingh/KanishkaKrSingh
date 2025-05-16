@@ -100,7 +100,7 @@ I love crafting projects that **blend intelligence with utility**, and I’m pas
 ## 🎧 Spotify Playing
 
 <p align="center">
-    <a href="https://open.spotify.com/user/317bj4zcxrzthzj5n3kzgbsv6jy4" target="_blank"> 
+    <a href="https://open.spotify.com/user/kanishkakumarsingh2003" target="_blank"> 
         <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Kanishka's Spotify" />
     </a>
 </p>
