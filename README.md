@@ -11,7 +11,7 @@ I love crafting projects that **blend intelligence with utility**, and I’m pas
 <p>
 <a href="https://www.linkedin.com/in/kanishka-singh-527880254/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:kanishkakumarsingh2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://leetcode.com/u/Meliodas_13/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" height=25></a>
+<a href="https://leetcode.com/u/LeadingTheAbyss/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" height=25></a>
 <a href="https://github.com/KanishkaKrSingh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25></a>
 </p>
 
