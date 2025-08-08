@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
+<img align="center" width="100%" alt="" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Kanishka Kumar Singh!](https://github.com/KanishkaKrSingh) <img src="https://komarev.com/ghpvc/?username=KanishkaKrSingh" height="20px">
 
@@ -95,15 +95,6 @@ I love crafting projects that **blend intelligence with utility**, and I’m pas
     <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkaKrSingh&theme=minimal"/>
 </div>
 
----
-
-## 🎧 Spotify Playing
-
-<p align="center">
-    <a href="https://open.spotify.com/user/kanishkakumarsingh2003" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Kanishka's Spotify" />
-    </a>
-</p>
 
 ---
 
