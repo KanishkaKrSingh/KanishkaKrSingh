@@ -8,12 +8,9 @@ Currently working under the guidance of **Dr. Supratim Biswas** on **automated a
 
 I love crafting projects that **blend intelligence with utility**, and I’m passionate about pushing boundaries with modern tools like **TensorFlow**, **OpenCV**, and **Transformers**.
 
-<p>
-<a href="https://www.linkedin.com/in/kanishka-singh-527880254/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:kanishkakumarsingh2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://leetcode.com/u/LeadingTheAbyss/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" height=25></a>
-<a href="https://github.com/KanishkaKrSingh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25></a>
-</p>
+| Medium | LeetCode | Codeforces | Instagram | Twitter | LinkedIn |
+| --- | --- | --- | --- | --- | --- |
+| [![Medium](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fmedium.com%2F%40kanishkakumarsingh2003&subtitle=@kanishkakumarsingh2003&size=square)](https://medium.com/@kanishkakumarsingh2003) | [![LeetCode](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2F&subtitle=LeadingTheAbyss&size=square)](https://leetcode.com/u/LeadingTheAbyss/) | [![Codeforces](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2F&subtitle=ShadowBeast_13&size=square)](https://codeforces.com/profile/ShadowBeast_13) | [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fkanishkakr.singh%2F&subtitle=@kanishkakr.singh&size=square)](https://www.instagram.com/kanishkakr.singh/) | [![Twitter](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FKanishkKrSingh&subtitle=@KanishkKrSingh&size=square)](https://x.com/KanishkKrSingh) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkanishka-singh-527880254%2F&subtitle=Kanishka+Singh&size=square)](https://www.linkedin.com/in/kanishka-singh-527880254/) |
 
 ---
 
@@ -72,11 +69,86 @@ I love crafting projects that **blend intelligence with utility**, and I’m pas
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=KanishkaKrSingh&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkaKrSingh&custom_title=Kanishka's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaKrSingh&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KanishkaKrSingh&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanishkaKrSingh&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanishkaKrSingh&theme=highcontrast&hide_border=true">
+
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/KanishkaKrSingh/ClassifAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkaKrSingh&repo=ClassifAI&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KanishkaKrSingh/IncomeEstimation_TeenTitans_submission">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkaKrSingh&repo=IncomeEstimation_TeenTitans_submission&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/KanishkaKrSingh/Automated-Attendance-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkaKrSingh&repo=Automated-Attendance-System&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KanishkaKrSingh/walmart-autocart">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkaKrSingh&repo=walmart-autocart&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+### GitHub Contribution Chart
+<a href="https://github.com/KanishkaKrSingh">
+    <img src="https://ghchart.rshah.org/KanishkaKrSingh" alt="KanishkaKrSingh's GitHub Contribution Chart">
+</a>
+
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
+  
+  <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+  <img src="https://myreadme.vercel.app/api/embed/KanishkaKrSingh?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KanishkaKrSingh's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/KanishkaKrSingh?theme=dark" alt="KanishkaKrSingh's GitHub Stats">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KanishkaKrSingh" alt="Advanced GitHub Stats for KanishkaKrSingh" width="400">
+
+</details>
 
 <p align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=KanishkaKrSingh&theme=white" width="48%"/>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KanishkaKrSingh&show_icons=true&count_private=true&hide_border=true" width="48%"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KanishkaKrSingh&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -89,14 +161,6 @@ I love crafting projects that **blend intelligence with utility**, and I’m pas
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkaKrSingh&theme=minimal"/>
-</div>
-
-
----
 
 ## ☕ Like What I Do?
 
